@@ -1,4 +1,3 @@
-Hola mundo!!
-primero git de prueba
-segunto intento
-tercer
+print("Bienvenido al programa de bienvenida")
+name = input("Alexander")
+print("Saludos: ", name)
